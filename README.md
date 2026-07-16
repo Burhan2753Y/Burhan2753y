@@ -25,5 +25,5 @@
  * **Startup Grand Challenge NIIPC IIT Delhi (2025):** Ranked in the Top 15 teams nationwide out of all competing startups for an Automatic Speech Recognition (ASR) problem statement.
  * **Bachelor of Science in Computer Science:** Graduated from Mumbai University (2022-2025) with an SGPI of 8.9 in Sem VI.
 ## 📫 Connect with Me
- * **Portfolio:** burhan53.in
+ * **Portfolio:** https://burhan53.in
  * **Email:** burhantin2005@gmail.com
